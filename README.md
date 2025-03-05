@@ -6,7 +6,7 @@ Arachnida is a cybersecurity project consisting of two powerful image-related to
 
 <div align="center">
   <video width="640" height="480" controls>
-    <source src="assets/example.mp4" type="video/mp4">
+    <source src="https://github.com/wmemcpy/Arachnida/blob/main/assets/example.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
