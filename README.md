@@ -2,6 +2,17 @@
 
 Arachnida is a cybersecurity project consisting of two powerful image-related tools: Spider and Scorpion.
 
+## Demo
+
+<div align="center">
+  <video width="640" height="480" controls>
+    <source src="assets/example.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+**Note:** If the video doesn't play directly in the README, you can [download the demo video](assets/example.mp4) to view it.
+
 ## Tools
 
 ### Spider (Web Crawler)
@@ -71,9 +82,9 @@ git clone <repository-url>
 cd Arachnida
 ```
 
-2. Install the required dependencies from requirements.txt
+2. Install the required dependencies:
 ```bash
-pip install -r requirements.txt
+pip install requests beautifulsoup4 pillow
 ```
 
 ## Requirements
