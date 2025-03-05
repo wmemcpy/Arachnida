@@ -2,17 +2,6 @@
 
 Arachnida is a cybersecurity project consisting of two powerful image-related tools: Spider and Scorpion.
 
-## Demo
-
-<div align="center">
-  <video width="640" height="480" controls>
-    <source src="https://github.com/user-attachments/assets/1145ed35-7739-4709-ad4a-2379f0277ae8" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-**Note:** If the video doesn't play directly in the README, you can [download the demo video](assets/example.mp4) to view it.
-
 ## Tools
 
 ### Spider (Web Crawler)
